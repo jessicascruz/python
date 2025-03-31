@@ -1,0 +1,2 @@
+Este é um documento de texto teste para testar o funcionamento dessa função que cria o áudio do texto.
+Feita por Jéssica Cruz!
